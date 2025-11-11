@@ -1,4 +1,4 @@
-# Qwen 3 8B on Intel NPU with OpenVINO-genai
+# LLMs on Intel NPU with OpenVINO-genai
 
 This project demonstrates running NPU-optimized LLM on an **Intel Ultra Series 1 & 2 NPU** using **OpenVINO GenAI**.  
 
